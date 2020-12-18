@@ -1,0 +1,1 @@
+rPhone3; Ssamssung; $748.47; [1, 2, 4]

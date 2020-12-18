@@ -1,0 +1,3 @@
+tPhone3; plum; $713.25; [4, 2, 4]
+dPhone3; BlueBerry; $768.03; [3, 2, 4]
+bPhone2; pineapple; $862.98; [2, 2, 2]

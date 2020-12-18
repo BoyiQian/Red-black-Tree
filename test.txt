@@ -1,0 +1,9 @@
+Name, Vendor, Price, Department Rate
+pPhone1; BlueBerry; $909.9; [0, 1, 2, 3]
+kPhone2; pineapple; $883.56; [0, 1, 3, 2]
+tPhone3; plum; $713.25; [1, 0, 2, 3]
+dPhone3; BlueBerry; $768.03; [1, 0, 3, 2]
+bPhone2; pineapple; $862.98; [2, 3, 1, 0]
+ePhone3; Ssamssung; $751.83; [1, 0, 3, 2]
+gPhone1; peach; $698.67; [2, 3, 0, 1]
+nPhone2; plum; $808.34; [3, 1, 0, 2]
